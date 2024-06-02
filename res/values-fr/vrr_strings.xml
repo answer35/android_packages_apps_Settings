@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Refresh rate -->
+    <string name="refresh_rate_title">Taux de rafraichissement</string>
+    <string name="refresh_rate_summary_vrr_on">%d Hz (Adaptatif)</string>
+    <string name="refresh_rate_vrr_title">Taux de rafraichissement adaptatif</string> 
+    <string name="refresh_rate_vrr_summary">Réduisez automatiquement le taux de rafraîchissement lorsque l\’écran est inactif, pour économiser de l\’énergie. Peut provoquer un scintillement ou un changement de couleur sur certains écrans</string> 
+    <string name="refresh_rate_footer">Un taux de rafraîchissement plus élevé rend l\'affichage plus fluide, mais augmente la consommation d\'énergie</string>
+    <string name="peak_refresh_rate_summary_custom">Augmente automatiquement le taux de rafraîchissement de 60 à %1$d Hz pour certains contenus. Augmente la consommation de la batterie.</string>
+</resources>
